@@ -16,12 +16,9 @@ if __name__ == '__main__':
     try:
         while True:
             name = input()
-            if name != "":
-                if name in dict:
-                    print(f"{name}={dict[name]}")
-                else:
-                    print("Not found")
+            if name in dict:
+                print(f"{name}={dict[name]}")
             else:
-                break
+                print("Not found")
     except EOFError:
         pass
