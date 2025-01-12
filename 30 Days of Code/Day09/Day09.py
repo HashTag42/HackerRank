@@ -3,14 +3,6 @@
 # HackerRank: 30 Days of Code: Day 9: Recursion 3
 # Problem: https://www.hackerrank.com/challenges/30-recursion/problem
 
-
-
-import math
-import os
-import random
-import re
-import sys
-
 #
 # Complete the 'factorial' function below.
 #
