@@ -6,20 +6,20 @@ if __name__ == '__main__':
 
     b = bin(n)[2:]
 
-    l = 0
-    maximum = 0
+    length = maximum = 0
     streak = False
+
     for i in range(0,len(b)):
         digit = int(b[i])
         if not streak and digit == 1:
             streak = True
-            l = 1
+            length = 1
         elif streak is True and digit == 1:
-            l +=1
+            length +=1
         elif streak is True and digit == 0:
             streak = False
-            maximum = max(maximum, l)
+            maximum = max(maximum, length)
 
-    maximum = max(maximum, l)
+    maximum = max(maximum, length)
 
     print(maximum)
