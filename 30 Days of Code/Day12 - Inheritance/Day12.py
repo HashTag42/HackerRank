@@ -1,3 +1,6 @@
+# HackerRank: 30 Days of Code: Day 12: Inheritance
+# Problem: https://www.hackerrank.com/challenges/30-inheritance/problem
+
 class Person:
     def __init__(self, firstName, lastName, idNumber):
         self.firstName = firstName
