@@ -1,4 +1,4 @@
-# HackerRank: 30 Days of Code: Day 16: More Exceptions
+# HackerRank: 30 Days of Code: Day 17: More Exceptions
 # Problem: https://www.hackerrank.com/challenges/30-more-exceptions/problem?isFullScreen=true
 
 #Write your code here
