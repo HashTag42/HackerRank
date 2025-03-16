@@ -23,10 +23,12 @@ int main() {
 
     // Read and save an integer, double, and String to your variables.
 	cin >> i2;
+	cin.ignore();       // Ignore the newline character after the integer input
+	
+    cin >> d2;
     cin.ignore();
-	cin >> d2;
-    cin.ignore();
-	getline(cin, s2);   // Using getline() to read a string with spaces
+	
+    getline(cin, s2);   // Using getline() to read a string with spaces
 
     // Print the sum of both integer variables on a new line.
 	cout << i + i2 << endl;

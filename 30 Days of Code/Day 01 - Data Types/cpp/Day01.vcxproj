@@ -24,6 +24,7 @@
     <ProjectGuid>{e28f56d2-84d6-48b1-b718-95f153030d31}</ProjectGuid>
     <RootNamespace>Day01DataTypes</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Day 01 C++</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
