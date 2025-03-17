@@ -1,4 +1,4 @@
-# HackerRank: 30 Days of Code: Day 18: Queues and Stacks
+# HackerRank: 30 Days of Code: Day 19: Interfaces
 # Problem: https://www.hackerrank.com/challenges/30-interfaces/problem?isFullScreen=true
 
 class AdvancedArithmetic(object):
