@@ -87,6 +87,20 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 17 - More Excepti
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 18 - Queues and Stacks\py\py.pyproj", "{3020943C-B5B2-402D-AD5B-ED582E3D8F76}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 20 - Sorting", "Day 20 - Sorting", "{FA520A40-D7B9-4001-877D-9F94197094BE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 20 - Sorting\py\py.pyproj", "{706CEBE2-928C-4BD2-AD34-323C9BBA8D24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "java", "java", "{4DEB9F0C-C7A6-4A47-BF7C-AC9A95C0F6D0}"
+	ProjectSection(SolutionItems) = preProject
+		Day 20 - Sorting\java\Day20Tutorial.java = Day 20 - Sorting\java\Day20Tutorial.java
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "java", "java", "{884276FA-CE6E-49A2-A20D-634BED369FC2}"
+	ProjectSection(SolutionItems) = preProject
+		Day 19 - Interfaces\java\Day19Tutorial.java = Day 19 - Interfaces\java\Day19Tutorial.java
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -241,6 +255,12 @@ Global
 		{3020943C-B5B2-402D-AD5B-ED582E3D8F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3020943C-B5B2-402D-AD5B-ED582E3D8F76}.Release|x64.ActiveCfg = Release|Any CPU
 		{3020943C-B5B2-402D-AD5B-ED582E3D8F76}.Release|x86.ActiveCfg = Release|Any CPU
+		{706CEBE2-928C-4BD2-AD34-323C9BBA8D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706CEBE2-928C-4BD2-AD34-323C9BBA8D24}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{706CEBE2-928C-4BD2-AD34-323C9BBA8D24}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{706CEBE2-928C-4BD2-AD34-323C9BBA8D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706CEBE2-928C-4BD2-AD34-323C9BBA8D24}.Release|x64.ActiveCfg = Release|Any CPU
+		{706CEBE2-928C-4BD2-AD34-323C9BBA8D24}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -268,6 +288,9 @@ Global
 		{BAAF8B2B-9CEB-493F-81C0-21D51ECC28BB} = {0532EE4E-BE07-4829-AB47-B91077B67F01}
 		{F2E8050C-91E8-41D7-A6D3-2F4C83526B6E} = {4010D647-3158-42C6-BB70-71C4FEB0A0C9}
 		{3020943C-B5B2-402D-AD5B-ED582E3D8F76} = {20C5C22B-AB34-479D-9D7E-2112A39B13CC}
+		{706CEBE2-928C-4BD2-AD34-323C9BBA8D24} = {FA520A40-D7B9-4001-877D-9F94197094BE}
+		{4DEB9F0C-C7A6-4A47-BF7C-AC9A95C0F6D0} = {FA520A40-D7B9-4001-877D-9F94197094BE}
+		{884276FA-CE6E-49A2-A20D-634BED369FC2} = {A130EEA8-44EA-49D7-A530-F47924840706}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B88DDB8-4FAC-4662-97FE-83CC94F43844}
