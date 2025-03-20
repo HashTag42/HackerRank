@@ -1,5 +1,5 @@
-// HackerRank: 30 Days of Code - Day 1 : Data Types
-// Problem : https ://www.hackerrank.com/challenges/30-data-types/problem?isFullScreen=true
+// HackerRank: 30 Days of Code - Day 1: Data Types
+// Problem: https://www.hackerrank.com/challenges/30-data-types/problem?isFullScreen=true
 
 #include <iostream>
 #include <iomanip> // Required for setprecision()
