@@ -21,7 +21,7 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 02 Python", "Day 02 - O
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 19 - Interfaces", "Day 19 - Interfaces", "{A130EEA8-44EA-49D7-A530-F47924840706}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 19 - Interfaces\py\py.pyproj", "{D3FC1FEF-7807-4100-8700-5E6056383A08}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 19 Python", "Day 19 - Interfaces\py\Day 19 Python.pyproj", "{D3FC1FEF-7807-4100-8700-5E6056383A08}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 03 - Intro to Conditional Statements", "Day 03 - Intro to Conditional Statements", "{DD67B168-F078-40C1-9228-B04DEE624B17}"
 EndProject
@@ -55,48 +55,48 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 17 - More Exceptions", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 18 - Queues and Stacks", "Day 18 - Queues and Stacks", "{20C5C22B-AB34-479D-9D7E-2112A39B13CC}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 03 - Intro to Conditional Statements\py\py.pyproj", "{8036E3E8-6688-4E68-B4D6-D7FDF9CDCB7D}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 03 Python", "Day 03 - Intro to Conditional Statements\py\Day 03 Python.pyproj", "{8036E3E8-6688-4E68-B4D6-D7FDF9CDCB7D}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 04 - Class vs. Instance\py\py.pyproj", "{81238A9B-8049-4FF8-BCCF-8651EC2F3093}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 04 Python", "Day 04 - Class vs. Instance\py\Day 04 Python.pyproj", "{81238A9B-8049-4FF8-BCCF-8651EC2F3093}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 05 - Loops\py\py.pyproj", "{FAEC4926-0C5F-4898-B6D5-6A080BC7259C}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 05 Python", "Day 05 - Loops\py\Day 05 Python.pyproj", "{FAEC4926-0C5F-4898-B6D5-6A080BC7259C}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 06 - Let's Review\py\py.pyproj", "{7D503442-A084-4344-AADC-EF8C2ACFC63F}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 06 Python", "Day 06 - Let's Review\py\Day 06 Python.pyproj", "{7D503442-A084-4344-AADC-EF8C2ACFC63F}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 07 - Arrays\py\py.pyproj", "{439781DC-4D98-440E-9DE2-CFB82059B814}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 07 Python", "Day 07 - Arrays\py\Day 07 Python.pyproj", "{439781DC-4D98-440E-9DE2-CFB82059B814}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 08 - Dictionaries and Maps\py\py.pyproj", "{412FC722-2EE3-4EC6-9B9D-A0A6614BCA5C}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 08 Python", "Day 08 - Dictionaries and Maps\py\Day 08 Python.pyproj", "{412FC722-2EE3-4EC6-9B9D-A0A6614BCA5C}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 09 - Recursion 3\py\py.pyproj", "{D5E0CB0B-8F11-4159-BD0F-5282308392E1}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 09 Python", "Day 09 - Recursion 3\py\Day 09 Python.pyproj", "{D5E0CB0B-8F11-4159-BD0F-5282308392E1}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 10 - Binary Numbers\py\py.pyproj", "{2EFF8C12-D466-43EE-A617-B6794FDCBE8B}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 10 Python", "Day 10 - Binary Numbers\py\Day 10 Python.pyproj", "{2EFF8C12-D466-43EE-A617-B6794FDCBE8B}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 11 - 2D Arrays\py\py.pyproj", "{02AF39AA-C661-4669-8E06-4BBBB2DC4B50}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 11 Python", "Day 11 - 2D Arrays\py\Day 11 Python.pyproj", "{02AF39AA-C661-4669-8E06-4BBBB2DC4B50}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 12 - Inheritance\py\py.pyproj", "{1E11C787-376E-4543-B406-6A5C9DAE695C}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 12 Python", "Day 12 - Inheritance\py\Day 12 Python.pyproj", "{1E11C787-376E-4543-B406-6A5C9DAE695C}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 13 - Abstract Classes\py\py.pyproj", "{DAE5F6E1-245A-469E-B8BC-18CABB54E12C}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 13 Python", "Day 13 - Abstract Classes\py\Day 13 Python.pyproj", "{DAE5F6E1-245A-469E-B8BC-18CABB54E12C}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 14 - Scope\py\py.pyproj", "{F8799A6E-970A-4025-9B62-2F663EDA6BCF}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 14 Python", "Day 14 - Scope\py\Day 14 Python.pyproj", "{F8799A6E-970A-4025-9B62-2F663EDA6BCF}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 15 - Linked List\py\py.pyproj", "{58F34321-24A2-40A4-BEBD-62C1B5050164}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 15 Python", "Day 15 - Linked List\py\Day 15 Python.pyproj", "{58F34321-24A2-40A4-BEBD-62C1B5050164}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 16 - Exceptions - String to Integer\py\py.pyproj", "{BAAF8B2B-9CEB-493F-81C0-21D51ECC28BB}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 16 Python", "Day 16 - Exceptions - String to Integer\py\Day 16 Python.pyproj", "{BAAF8B2B-9CEB-493F-81C0-21D51ECC28BB}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 17 - More Exceptions\py\py.pyproj", "{F2E8050C-91E8-41D7-A6D3-2F4C83526B6E}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 17 Python", "Day 17 - More Exceptions\py\Day 17 Python.pyproj", "{F2E8050C-91E8-41D7-A6D3-2F4C83526B6E}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 18 - Queues and Stacks\py\py.pyproj", "{3020943C-B5B2-402D-AD5B-ED582E3D8F76}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 18 Python", "Day 18 - Queues and Stacks\py\Day 18 Python.pyproj", "{3020943C-B5B2-402D-AD5B-ED582E3D8F76}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 20 - Sorting", "Day 20 - Sorting", "{FA520A40-D7B9-4001-877D-9F94197094BE}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "py", "Day 20 - Sorting\py\py.pyproj", "{706CEBE2-928C-4BD2-AD34-323C9BBA8D24}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 20 Python", "Day 20 - Sorting\py\Day 20 Python.pyproj", "{706CEBE2-928C-4BD2-AD34-323C9BBA8D24}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "java", "java", "{4DEB9F0C-C7A6-4A47-BF7C-AC9A95C0F6D0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 20 Java", "Day 20 Java", "{4DEB9F0C-C7A6-4A47-BF7C-AC9A95C0F6D0}"
 	ProjectSection(SolutionItems) = preProject
 		Day 20 - Sorting\java\Day20Tutorial.java = Day 20 - Sorting\java\Day20Tutorial.java
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "java", "java", "{884276FA-CE6E-49A2-A20D-634BED369FC2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 19 Java", "Day 19 Java", "{884276FA-CE6E-49A2-A20D-634BED369FC2}"
 	ProjectSection(SolutionItems) = preProject
 		Day 19 - Interfaces\java\Day19Tutorial.java = Day 19 - Interfaces\java\Day19Tutorial.java
 	EndProjectSection
