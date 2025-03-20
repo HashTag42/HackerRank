@@ -1,4 +1,4 @@
-sssssssssssssssssimport java.util.*;
+import java.util.*;
 
 class Sorting {
     private static void printArray(String s, int[] x) {
