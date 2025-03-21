@@ -7,7 +7,9 @@
 using namespace std;
 
 template<typename T>
-void printArray(const vector<T> v)
+void printArray(const vector<T>& v)     
+// const prevents modification of the vector. 
+// The reference operator (&) prevents copying of the vector for improved performance.
 {
     for (T element : v)
         cout << element << endl;
