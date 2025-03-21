@@ -9,28 +9,28 @@ using namespace std;
 template<typename T>
 void printArray(const vector<T> v)
 {
-	for(T element: v)
+    for (T element : v)
         cout << element << endl;
 
-	return;
+    return;
 }
 
 int main()
 {
-	int count;
+    int count;
 
-	cin >> count;
-	vector<int> int_vector(count);
-	for (int i = 0; i < count; i++)
-		cin >> int_vector[i];
+    cin >> count;
+    vector<int> int_vector(count);
+    for (int i = 0; i < count; i++)
+        cin >> int_vector[i];
 
-	cin >> count;
-	vector<string> string_vector(count);
-	for (int i = 0; i < count; i++)
-		cin >> string_vector[i];
+    cin >> count;
+    vector<string> string_vector(count);
+    for (int i = 0; i < count; i++)
+        cin >> string_vector[i];
 
-	printArray(int_vector);
-	printArray(string_vector);
+    printArray(int_vector);
+    printArray(string_vector);
 
-	return 0;
+    return 0;
 }
