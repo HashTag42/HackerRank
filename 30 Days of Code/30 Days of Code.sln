@@ -105,6 +105,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 21 - Generics", "Day 21
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day21", "Day 21 - Generics\cpp\Day21.vcxproj", "{A49B5419-B7F5-400C-9F41-8A4924B4BB05}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 22 - Binary Search Trees", "Day 22 - Binary Search Trees", "{0F46A192-4F58-4F9E-B1D9-4F05F717D55D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day22", "Day 22 - Binary Search Trees\py\Day22.pyproj", "{633A1862-6A3B-4818-8246-76473F727F48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -277,6 +281,12 @@ Global
 		{A49B5419-B7F5-400C-9F41-8A4924B4BB05}.Release|x64.Build.0 = Release|x64
 		{A49B5419-B7F5-400C-9F41-8A4924B4BB05}.Release|x86.ActiveCfg = Release|Win32
 		{A49B5419-B7F5-400C-9F41-8A4924B4BB05}.Release|x86.Build.0 = Release|Win32
+		{633A1862-6A3B-4818-8246-76473F727F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633A1862-6A3B-4818-8246-76473F727F48}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{633A1862-6A3B-4818-8246-76473F727F48}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{633A1862-6A3B-4818-8246-76473F727F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633A1862-6A3B-4818-8246-76473F727F48}.Release|x64.ActiveCfg = Release|Any CPU
+		{633A1862-6A3B-4818-8246-76473F727F48}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -308,6 +318,7 @@ Global
 		{4DEB9F0C-C7A6-4A47-BF7C-AC9A95C0F6D0} = {FA520A40-D7B9-4001-877D-9F94197094BE}
 		{884276FA-CE6E-49A2-A20D-634BED369FC2} = {A130EEA8-44EA-49D7-A530-F47924840706}
 		{A49B5419-B7F5-400C-9F41-8A4924B4BB05} = {DEE92238-FC57-4D31-A70C-04E8F735F931}
+		{633A1862-6A3B-4818-8246-76473F727F48} = {0F46A192-4F58-4F9E-B1D9-4F05F717D55D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B88DDB8-4FAC-4662-97FE-83CC94F43844}
