@@ -103,11 +103,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 19 Java", "Day 19 Java"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 21 - Generics", "Day 21 - Generics", "{DEE92238-FC57-4D31-A70C-04E8F735F931}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day21", "Day 21 - Generics\cpp\Day21.vcxproj", "{A49B5419-B7F5-400C-9F41-8A4924B4BB05}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day 21 C++", "Day 21 - Generics\cpp\Day21.vcxproj", "{A49B5419-B7F5-400C-9F41-8A4924B4BB05}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 22 - Binary Search Trees", "Day 22 - Binary Search Trees", "{0F46A192-4F58-4F9E-B1D9-4F05F717D55D}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day22", "Day 22 - Binary Search Trees\py\Day22.pyproj", "{633A1862-6A3B-4818-8246-76473F727F48}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 22 Python", "Day 22 - Binary Search Trees\py\Day 22 Python.pyproj", "{633A1862-6A3B-4818-8246-76473F727F48}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 23 - BST Level-Order Traversal", "Day 23 - BST Level-Order Traversal", "{9E217D74-854B-44C0-A900-4A658C9CFC01}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 23 Python", "Day 23 - BST Level-Order Traversal\py\Day 23 Python.pyproj", "{5F9953D6-5637-4E74-A833-D21ED9A4ED18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -287,6 +291,12 @@ Global
 		{633A1862-6A3B-4818-8246-76473F727F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{633A1862-6A3B-4818-8246-76473F727F48}.Release|x64.ActiveCfg = Release|Any CPU
 		{633A1862-6A3B-4818-8246-76473F727F48}.Release|x86.ActiveCfg = Release|Any CPU
+		{5F9953D6-5637-4E74-A833-D21ED9A4ED18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9953D6-5637-4E74-A833-D21ED9A4ED18}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5F9953D6-5637-4E74-A833-D21ED9A4ED18}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5F9953D6-5637-4E74-A833-D21ED9A4ED18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9953D6-5637-4E74-A833-D21ED9A4ED18}.Release|x64.ActiveCfg = Release|Any CPU
+		{5F9953D6-5637-4E74-A833-D21ED9A4ED18}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -319,6 +329,7 @@ Global
 		{884276FA-CE6E-49A2-A20D-634BED369FC2} = {A130EEA8-44EA-49D7-A530-F47924840706}
 		{A49B5419-B7F5-400C-9F41-8A4924B4BB05} = {DEE92238-FC57-4D31-A70C-04E8F735F931}
 		{633A1862-6A3B-4818-8246-76473F727F48} = {0F46A192-4F58-4F9E-B1D9-4F05F717D55D}
+		{5F9953D6-5637-4E74-A833-D21ED9A4ED18} = {9E217D74-854B-44C0-A900-4A658C9CFC01}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B88DDB8-4FAC-4662-97FE-83CC94F43844}
