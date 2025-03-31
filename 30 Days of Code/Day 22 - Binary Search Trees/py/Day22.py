@@ -1,4 +1,4 @@
-# HackerRank: 30 Days of Code: Day 21: Binary Search Trees
+# HackerRank: 30 Days of Code: Day 22: Binary Search Trees
 # Problem: https://www.hackerrank.com/challenges/30-sorting/problem?isFullScreen=true
 
 class Node:
