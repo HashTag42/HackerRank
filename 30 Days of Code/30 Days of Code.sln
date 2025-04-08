@@ -113,6 +113,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 23 - BST Level-Order Tr
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 23 Python", "Day 23 - BST Level-Order Traversal\py\Day 23 Python.pyproj", "{5F9953D6-5637-4E74-A833-D21ED9A4ED18}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 24 - More Linked Lists", "Day 24 - More Linked Lists", "{D0058F50-CABC-4DB1-9E1A-DE3159A70DA9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 24 Python", "Day 24 - More Linked Lists\py\Day 24 Python.pyproj", "{52727D9E-0744-4EFA-A858-4C753F6630E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -297,6 +301,12 @@ Global
 		{5F9953D6-5637-4E74-A833-D21ED9A4ED18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F9953D6-5637-4E74-A833-D21ED9A4ED18}.Release|x64.ActiveCfg = Release|Any CPU
 		{5F9953D6-5637-4E74-A833-D21ED9A4ED18}.Release|x86.ActiveCfg = Release|Any CPU
+		{52727D9E-0744-4EFA-A858-4C753F6630E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52727D9E-0744-4EFA-A858-4C753F6630E7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{52727D9E-0744-4EFA-A858-4C753F6630E7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{52727D9E-0744-4EFA-A858-4C753F6630E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52727D9E-0744-4EFA-A858-4C753F6630E7}.Release|x64.ActiveCfg = Release|Any CPU
+		{52727D9E-0744-4EFA-A858-4C753F6630E7}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -330,6 +340,7 @@ Global
 		{A49B5419-B7F5-400C-9F41-8A4924B4BB05} = {DEE92238-FC57-4D31-A70C-04E8F735F931}
 		{633A1862-6A3B-4818-8246-76473F727F48} = {0F46A192-4F58-4F9E-B1D9-4F05F717D55D}
 		{5F9953D6-5637-4E74-A833-D21ED9A4ED18} = {9E217D74-854B-44C0-A900-4A658C9CFC01}
+		{52727D9E-0744-4EFA-A858-4C753F6630E7} = {D0058F50-CABC-4DB1-9E1A-DE3159A70DA9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B88DDB8-4FAC-4662-97FE-83CC94F43844}
