@@ -117,6 +117,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 24 - More Linked Lists"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 24 Python", "Day 24 - More Linked Lists\py\Day 24 Python.pyproj", "{52727D9E-0744-4EFA-A858-4C753F6630E7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 25 - Running Time and Complexity", "Day 25 - Running Time and Complexity", "{4A1910C1-5AC9-467B-A490-0D024E442B25}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 25 Python", "Day 25 - Running Time and Complexity\py\Day 25 Python.pyproj", "{7B497368-6CCB-43D2-B069-9FC900FFE509}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -307,6 +311,12 @@ Global
 		{52727D9E-0744-4EFA-A858-4C753F6630E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52727D9E-0744-4EFA-A858-4C753F6630E7}.Release|x64.ActiveCfg = Release|Any CPU
 		{52727D9E-0744-4EFA-A858-4C753F6630E7}.Release|x86.ActiveCfg = Release|Any CPU
+		{7B497368-6CCB-43D2-B069-9FC900FFE509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B497368-6CCB-43D2-B069-9FC900FFE509}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7B497368-6CCB-43D2-B069-9FC900FFE509}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7B497368-6CCB-43D2-B069-9FC900FFE509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B497368-6CCB-43D2-B069-9FC900FFE509}.Release|x64.ActiveCfg = Release|Any CPU
+		{7B497368-6CCB-43D2-B069-9FC900FFE509}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -341,6 +351,7 @@ Global
 		{633A1862-6A3B-4818-8246-76473F727F48} = {0F46A192-4F58-4F9E-B1D9-4F05F717D55D}
 		{5F9953D6-5637-4E74-A833-D21ED9A4ED18} = {9E217D74-854B-44C0-A900-4A658C9CFC01}
 		{52727D9E-0744-4EFA-A858-4C753F6630E7} = {D0058F50-CABC-4DB1-9E1A-DE3159A70DA9}
+		{7B497368-6CCB-43D2-B069-9FC900FFE509} = {4A1910C1-5AC9-467B-A490-0D024E442B25}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B88DDB8-4FAC-4662-97FE-83CC94F43844}
