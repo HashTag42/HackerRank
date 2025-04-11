@@ -129,6 +129,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 27 - Testing", "Day 27 
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 27 Python", "Day 27 - Testing\py\Day 27 Python.pyproj", "{AF8CD41B-D26A-4F3D-88A9-4BB73916FDBD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 28 - RegEx, Patterns, and Intro to Databases", "Day 28 - RegEx, Patterns, and Intro to Databases", "{16F8F2D8-059D-4AE3-9F82-D4A3931DEED7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 28 Python", "Day 28 - RegEx, Patterns, and Intro to Databases\py\Day 28 Python.pyproj", "{4A1FE74D-A09F-4E04-98EE-50D8E23EE8BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -337,6 +341,12 @@ Global
 		{AF8CD41B-D26A-4F3D-88A9-4BB73916FDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF8CD41B-D26A-4F3D-88A9-4BB73916FDBD}.Release|x64.ActiveCfg = Release|Any CPU
 		{AF8CD41B-D26A-4F3D-88A9-4BB73916FDBD}.Release|x86.ActiveCfg = Release|Any CPU
+		{4A1FE74D-A09F-4E04-98EE-50D8E23EE8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A1FE74D-A09F-4E04-98EE-50D8E23EE8BE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4A1FE74D-A09F-4E04-98EE-50D8E23EE8BE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4A1FE74D-A09F-4E04-98EE-50D8E23EE8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A1FE74D-A09F-4E04-98EE-50D8E23EE8BE}.Release|x64.ActiveCfg = Release|Any CPU
+		{4A1FE74D-A09F-4E04-98EE-50D8E23EE8BE}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -374,6 +384,7 @@ Global
 		{7B497368-6CCB-43D2-B069-9FC900FFE509} = {4A1910C1-5AC9-467B-A490-0D024E442B25}
 		{E71AE2FE-A51B-4721-950E-DFEED73765D9} = {50EF9327-BC22-4725-BED2-831BCB7535C2}
 		{AF8CD41B-D26A-4F3D-88A9-4BB73916FDBD} = {C3932ADD-6011-4E5F-8DDF-197E2851B5CD}
+		{4A1FE74D-A09F-4E04-98EE-50D8E23EE8BE} = {16F8F2D8-059D-4AE3-9F82-D4A3931DEED7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B88DDB8-4FAC-4662-97FE-83CC94F43844}
