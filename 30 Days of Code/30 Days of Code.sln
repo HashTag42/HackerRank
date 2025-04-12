@@ -133,6 +133,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 28 - RegEx, Patterns, a
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 28 Python", "Day 28 - RegEx, Patterns, and Intro to Databases\py\Day 28 Python.pyproj", "{4A1FE74D-A09F-4E04-98EE-50D8E23EE8BE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 29 - Bitwise AND", "Day 29 - Bitwise AND", "{867D1E91-7DB5-4276-A219-3645F3E70A2C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 29 Python", "Day 29 - Bitwise AND\py\Day 29 Python.pyproj", "{A8FA9411-4740-4A52-829F-819D76BF352F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -347,6 +351,12 @@ Global
 		{4A1FE74D-A09F-4E04-98EE-50D8E23EE8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A1FE74D-A09F-4E04-98EE-50D8E23EE8BE}.Release|x64.ActiveCfg = Release|Any CPU
 		{4A1FE74D-A09F-4E04-98EE-50D8E23EE8BE}.Release|x86.ActiveCfg = Release|Any CPU
+		{A8FA9411-4740-4A52-829F-819D76BF352F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FA9411-4740-4A52-829F-819D76BF352F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A8FA9411-4740-4A52-829F-819D76BF352F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A8FA9411-4740-4A52-829F-819D76BF352F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FA9411-4740-4A52-829F-819D76BF352F}.Release|x64.ActiveCfg = Release|Any CPU
+		{A8FA9411-4740-4A52-829F-819D76BF352F}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -385,6 +395,7 @@ Global
 		{E71AE2FE-A51B-4721-950E-DFEED73765D9} = {50EF9327-BC22-4725-BED2-831BCB7535C2}
 		{AF8CD41B-D26A-4F3D-88A9-4BB73916FDBD} = {C3932ADD-6011-4E5F-8DDF-197E2851B5CD}
 		{4A1FE74D-A09F-4E04-98EE-50D8E23EE8BE} = {16F8F2D8-059D-4AE3-9F82-D4A3931DEED7}
+		{A8FA9411-4740-4A52-829F-819D76BF352F} = {867D1E91-7DB5-4276-A219-3645F3E70A2C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3B88DDB8-4FAC-4662-97FE-83CC94F43844}
