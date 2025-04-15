@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Grading Students", "Grading Students", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Grading Students (Python)", "Grading Students\py\Grading Students (Python).pyproj", "{80C51B30-10DA-462A-8E03-B4E2AC0A8205}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Birthday Cake Candles", "Birthday Cake Candles", "{2ACA6F27-D3C1-4C71-B150-6FFE886FAACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday Cake Candles (C#)", "Birthday Cake Candles\Birthday Cake Candles (C#).csproj", "{AA7DF9AC-A642-BB7A-606F-CBDBB3780F20}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mini-Max Sum", "Mini-Max Sum", "{62D459B2-4038-4D4F-9E04-637A568C7870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini-Max Sum (C#)", "Mini-Max Sum\Mini-Max Sum (C#).csproj", "{C14AEC26-55FF-9936-8AAC-79C7DA0A496F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plus-Minus", "Plus-Minus", "{7EBA0BC3-5B55-42BC-B67D-AB1BA2FB9A7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plus-Minus (C#)", "Plus_Minus\Plus-Minus (C#).csproj", "{82CC65DA-F314-8819-B002-4DC5895C05EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Staircase", "Staircase", "{2DF6E153-1DBB-4033-A4C7-4A85FF676699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase (C#)", "Staircase\Staircase (C#).csproj", "{9B899493-E969-BC50-D6B9-1C6688AC854A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Time Conversion", "Time Conversion", "{1D5AEEC3-B4C9-4B73-AC42-C96E4F2D08CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time Conversion (C#)", "Time Conversion\Time Conversion (C#).csproj", "{450FD6F2-CBC5-E19B-1077-29AA92030CAF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apple and Orange", "Apple and Orange", "{CD291483-3EDE-4C24-AE74-BD9FED4A1306}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Apple and Orange (Python)", "Apple and Orange\PythonApplication1py\Apple and Orange (Python).pyproj", "{2E3B5E0A-8DF4-4332-A233-9BF9FFF15A16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80C51B30-10DA-462A-8E03-B4E2AC0A8205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C51B30-10DA-462A-8E03-B4E2AC0A8205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7DF9AC-A642-BB7A-606F-CBDBB3780F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7DF9AC-A642-BB7A-606F-CBDBB3780F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7DF9AC-A642-BB7A-606F-CBDBB3780F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7DF9AC-A642-BB7A-606F-CBDBB3780F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C14AEC26-55FF-9936-8AAC-79C7DA0A496F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14AEC26-55FF-9936-8AAC-79C7DA0A496F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14AEC26-55FF-9936-8AAC-79C7DA0A496F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14AEC26-55FF-9936-8AAC-79C7DA0A496F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82CC65DA-F314-8819-B002-4DC5895C05EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CC65DA-F314-8819-B002-4DC5895C05EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82CC65DA-F314-8819-B002-4DC5895C05EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CC65DA-F314-8819-B002-4DC5895C05EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B899493-E969-BC50-D6B9-1C6688AC854A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B899493-E969-BC50-D6B9-1C6688AC854A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B899493-E969-BC50-D6B9-1C6688AC854A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B899493-E969-BC50-D6B9-1C6688AC854A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450FD6F2-CBC5-E19B-1077-29AA92030CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450FD6F2-CBC5-E19B-1077-29AA92030CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450FD6F2-CBC5-E19B-1077-29AA92030CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450FD6F2-CBC5-E19B-1077-29AA92030CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3B5E0A-8DF4-4332-A233-9BF9FFF15A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3B5E0A-8DF4-4332-A233-9BF9FFF15A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{80C51B30-10DA-462A-8E03-B4E2AC0A8205} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{AA7DF9AC-A642-BB7A-606F-CBDBB3780F20} = {2ACA6F27-D3C1-4C71-B150-6FFE886FAACB}
+		{C14AEC26-55FF-9936-8AAC-79C7DA0A496F} = {62D459B2-4038-4D4F-9E04-637A568C7870}
+		{82CC65DA-F314-8819-B002-4DC5895C05EF} = {7EBA0BC3-5B55-42BC-B67D-AB1BA2FB9A7D}
+		{9B899493-E969-BC50-D6B9-1C6688AC854A} = {2DF6E153-1DBB-4033-A4C7-4A85FF676699}
+		{450FD6F2-CBC5-E19B-1077-29AA92030CAF} = {1D5AEEC3-B4C9-4B73-AC42-C96E4F2D08CE}
+		{2E3B5E0A-8DF4-4332-A233-9BF9FFF15A16} = {CD291483-3EDE-4C24-AE74-BD9FED4A1306}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56857632-587E-455B-BE56-45B4EFED56A9}
+	EndGlobalSection
+EndGlobal
