@@ -39,6 +39,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Structures", "Data Str
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", "{B41B15E6-A710-47BE-9624-6C40BE8F9AE9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sparse Arrays", "Sparse Arrays", "{3344DF07-C8D4-4E69-A145-3C257982E9FC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sparse Arrays (Python)", "Sparse Arrays\Sparse Arrays (Python).pyproj", "{B6909A58-4585-4444-A7F5-C8C45BDBEEDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +75,8 @@ Global
 		{2E3B5E0A-8DF4-4332-A233-9BF9FFF15A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CBE262C-7522-478D-A4D4-A9D991106793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2CBE262C-7522-478D-A4D4-A9D991106793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6909A58-4585-4444-A7F5-C8C45BDBEEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6909A58-4585-4444-A7F5-C8C45BDBEEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +98,8 @@ Global
 		{2E3B5E0A-8DF4-4332-A233-9BF9FFF15A16} = {CD291483-3EDE-4C24-AE74-BD9FED4A1306}
 		{D78FEB7A-25B9-4FA0-915D-2C23C7DC31F7} = {D6F58755-EBB7-42CF-B839-EF439163371D}
 		{2CBE262C-7522-478D-A4D4-A9D991106793} = {D78FEB7A-25B9-4FA0-915D-2C23C7DC31F7}
+		{3344DF07-C8D4-4E69-A145-3C257982E9FC} = {D6F58755-EBB7-42CF-B839-EF439163371D}
+		{B6909A58-4585-4444-A7F5-C8C45BDBEEDE} = {3344DF07-C8D4-4E69-A145-3C257982E9FC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56857632-587E-455B-BE56-45B4EFED56A9}
