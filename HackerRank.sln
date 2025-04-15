@@ -51,6 +51,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Insert a Node at the Tail o
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Insert a Node at the Tail of a Linked List (Python)", "Insert a Node at the Tail of a Linked List\Insert a Node at the Tail of a Linked List (Python).pyproj", "{2B910515-272D-4B98-B40A-CAD95DDDE559}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Print the Elements of a Linked List", "Print the Elements of a Linked List", "{9B4BAC30-7927-4289-A047-107B25F3F49F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Print the Elements of a Linked List (Python)", "Print the Elements of a Linked List\Print the Elements of a Linked List (Python).pyproj", "{24596006-8E5F-468F-9A10-E97F5E0088AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,8 @@ Global
 		{B6909A58-4585-4444-A7F5-C8C45BDBEEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B910515-272D-4B98-B40A-CAD95DDDE559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2B910515-272D-4B98-B40A-CAD95DDDE559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24596006-8E5F-468F-9A10-E97F5E0088AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24596006-8E5F-468F-9A10-E97F5E0088AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -114,6 +120,8 @@ Global
 		{10EB211F-94F7-4E5E-99E4-33A44F1317FF} = {D6F58755-EBB7-42CF-B839-EF439163371D}
 		{7C974DB1-C0E5-4128-8EE9-51E2D331F4F9} = {10EB211F-94F7-4E5E-99E4-33A44F1317FF}
 		{2B910515-272D-4B98-B40A-CAD95DDDE559} = {7C974DB1-C0E5-4128-8EE9-51E2D331F4F9}
+		{9B4BAC30-7927-4289-A047-107B25F3F49F} = {10EB211F-94F7-4E5E-99E4-33A44F1317FF}
+		{24596006-8E5F-468F-9A10-E97F5E0088AC} = {9B4BAC30-7927-4289-A047-107B25F3F49F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56857632-587E-455B-BE56-45B4EFED56A9}
