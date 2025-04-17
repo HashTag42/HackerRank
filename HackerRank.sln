@@ -65,6 +65,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2D Arrays - DS", "2D Arrays
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2D Arrays - DS (Python)", "2D Arrays - DS\py\2D Arrays - DS (Python).pyproj", "{BF0095D9-75EF-4927-9A4F-23FDF0BAC543}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Height of a Binary Tree", "Height of a Binary Tree", "{C215149C-D250-4224-93CF-F18E0E23202C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Height of a Binary Tree (Python)", "Height of a Binary Tree\py\Height of a Binary Tree (Python).pyproj", "{58A49713-4845-49E4-9C7D-3D1CC4F05B5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -107,6 +111,8 @@ Global
 		{FDB42147-1FA6-4AF2-BC66-2307EB8CB8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF0095D9-75EF-4927-9A4F-23FDF0BAC543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BF0095D9-75EF-4927-9A4F-23FDF0BAC543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A49713-4845-49E4-9C7D-3D1CC4F05B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A49713-4845-49E4-9C7D-3D1CC4F05B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -141,6 +147,8 @@ Global
 		{54F9A9F4-A9BE-4D4E-9E6C-A2D23E3093F2} = {D6F58755-EBB7-42CF-B839-EF439163371D}
 		{6D528A11-9790-437F-811B-274792604309} = {DD52A66E-D803-4A3D-A7AB-A9EA8BB618EC}
 		{BF0095D9-75EF-4927-9A4F-23FDF0BAC543} = {6D528A11-9790-437F-811B-274792604309}
+		{C215149C-D250-4224-93CF-F18E0E23202C} = {54F9A9F4-A9BE-4D4E-9E6C-A2D23E3093F2}
+		{58A49713-4845-49E4-9C7D-3D1CC4F05B5C} = {C215149C-D250-4224-93CF-F18E0E23202C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56857632-587E-455B-BE56-45B4EFED56A9}
