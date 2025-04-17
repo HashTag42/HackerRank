@@ -55,6 +55,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Print the Elements of a Lin
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Print the Elements of a Linked List (Python)", "Print the Elements of a Linked List\Print the Elements of a Linked List (Python).pyproj", "{24596006-8E5F-468F-9A10-E97F5E0088AC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Insert a node at the head of a linked list", "Insert a node at the head of a linked list", "{6288398C-98E6-47DA-97CE-F02A6F4D06B4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Insert a node at the head of a linked list", "Insert a node at the head of a linked list\Insert a node at the head of a linked list.pyproj", "{FDB42147-1FA6-4AF2-BC66-2307EB8CB8C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Trees", "Trees", "{54F9A9F4-A9BE-4D4E-9E6C-A2D23E3093F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2D Arrays - DS", "2D Arrays - DS", "{6D528A11-9790-437F-811B-274792604309}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2D Arrays - DS (Python)", "2D Arrays - DS\py\2D Arrays - DS (Python).pyproj", "{BF0095D9-75EF-4927-9A4F-23FDF0BAC543}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +103,10 @@ Global
 		{2B910515-272D-4B98-B40A-CAD95DDDE559}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24596006-8E5F-468F-9A10-E97F5E0088AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{24596006-8E5F-468F-9A10-E97F5E0088AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB42147-1FA6-4AF2-BC66-2307EB8CB8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB42147-1FA6-4AF2-BC66-2307EB8CB8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0095D9-75EF-4927-9A4F-23FDF0BAC543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0095D9-75EF-4927-9A4F-23FDF0BAC543}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -122,6 +136,11 @@ Global
 		{2B910515-272D-4B98-B40A-CAD95DDDE559} = {7C974DB1-C0E5-4128-8EE9-51E2D331F4F9}
 		{9B4BAC30-7927-4289-A047-107B25F3F49F} = {10EB211F-94F7-4E5E-99E4-33A44F1317FF}
 		{24596006-8E5F-468F-9A10-E97F5E0088AC} = {9B4BAC30-7927-4289-A047-107B25F3F49F}
+		{6288398C-98E6-47DA-97CE-F02A6F4D06B4} = {10EB211F-94F7-4E5E-99E4-33A44F1317FF}
+		{FDB42147-1FA6-4AF2-BC66-2307EB8CB8C9} = {6288398C-98E6-47DA-97CE-F02A6F4D06B4}
+		{54F9A9F4-A9BE-4D4E-9E6C-A2D23E3093F2} = {D6F58755-EBB7-42CF-B839-EF439163371D}
+		{6D528A11-9790-437F-811B-274792604309} = {DD52A66E-D803-4A3D-A7AB-A9EA8BB618EC}
+		{BF0095D9-75EF-4927-9A4F-23FDF0BAC543} = {6D528A11-9790-437F-811B-274792604309}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56857632-587E-455B-BE56-45B4EFED56A9}
