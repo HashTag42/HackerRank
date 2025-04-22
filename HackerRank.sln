@@ -69,6 +69,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Height of a Binary Tree", "
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Height of a Binary Tree (Python)", "Height of a Binary Tree\py\Height of a Binary Tree (Python).pyproj", "{58A49713-4845-49E4-9C7D-3D1CC4F05B5C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Insert a node at a specific position in a linked list", "Insert a node at a specific position in a linked list", "{F58B4E94-619E-495A-8BF7-032D84CB7088}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Insert a node at a specific position in a linked list (Python)", "Insert a node at a specific position in a linked list\py\Insert a node at a specific position in a linked list (Python).pyproj", "{585041E7-D12E-46AA-9700-8C19955A5E5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,6 +117,8 @@ Global
 		{BF0095D9-75EF-4927-9A4F-23FDF0BAC543}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58A49713-4845-49E4-9C7D-3D1CC4F05B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{58A49713-4845-49E4-9C7D-3D1CC4F05B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585041E7-D12E-46AA-9700-8C19955A5E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585041E7-D12E-46AA-9700-8C19955A5E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -149,6 +155,8 @@ Global
 		{BF0095D9-75EF-4927-9A4F-23FDF0BAC543} = {6D528A11-9790-437F-811B-274792604309}
 		{C215149C-D250-4224-93CF-F18E0E23202C} = {54F9A9F4-A9BE-4D4E-9E6C-A2D23E3093F2}
 		{58A49713-4845-49E4-9C7D-3D1CC4F05B5C} = {C215149C-D250-4224-93CF-F18E0E23202C}
+		{F58B4E94-619E-495A-8BF7-032D84CB7088} = {10EB211F-94F7-4E5E-99E4-33A44F1317FF}
+		{585041E7-D12E-46AA-9700-8C19955A5E5C} = {F58B4E94-619E-495A-8BF7-032D84CB7088}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56857632-587E-455B-BE56-45B4EFED56A9}
