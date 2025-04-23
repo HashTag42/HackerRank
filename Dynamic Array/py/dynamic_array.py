@@ -5,7 +5,6 @@
 
 import os
 
-
 #
 # Complete the 'dynamicArray' function below.
 #
