@@ -77,6 +77,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Delete a node", "Delete a n
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Delete a node (Python)", "Delete a node\py\Delete a node (Python).pyproj", "{71F2F425-E0CC-4FA0-AD9B-E7B66B0FE6B3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dynamic Array", "Dynamic Array", "{2ABD6E23-4AAC-483E-927C-EB37DD1A7334}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Dynamic Array (Python)", "Dynamic Array\py\Dynamic Array (Python).pyproj", "{7BA58F50-2379-46B9-8D22-80C92046005C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +129,8 @@ Global
 		{585041E7-D12E-46AA-9700-8C19955A5E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71F2F425-E0CC-4FA0-AD9B-E7B66B0FE6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{71F2F425-E0CC-4FA0-AD9B-E7B66B0FE6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA58F50-2379-46B9-8D22-80C92046005C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA58F50-2379-46B9-8D22-80C92046005C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -165,6 +171,8 @@ Global
 		{585041E7-D12E-46AA-9700-8C19955A5E5C} = {F58B4E94-619E-495A-8BF7-032D84CB7088}
 		{8EE60009-90DB-4121-BCF7-B14F945EC5FF} = {10EB211F-94F7-4E5E-99E4-33A44F1317FF}
 		{71F2F425-E0CC-4FA0-AD9B-E7B66B0FE6B3} = {8EE60009-90DB-4121-BCF7-B14F945EC5FF}
+		{2ABD6E23-4AAC-483E-927C-EB37DD1A7334} = {DD52A66E-D803-4A3D-A7AB-A9EA8BB618EC}
+		{7BA58F50-2379-46B9-8D22-80C92046005C} = {2ABD6E23-4AAC-483E-927C-EB37DD1A7334}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {56857632-587E-455B-BE56-45B4EFED56A9}
