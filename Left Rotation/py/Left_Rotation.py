@@ -16,12 +16,14 @@ import os
 def rotateLeft(d, arr):
     # Write your code here
     n = len(arr)
-    for i in range(d):
-        temp = arr[0]
-        for j in range(n-1):
-            arr[j] = arr[j+1]
-        arr[n-1] = temp
-    return arr
+    arr2 = arr.copy()
+    for i in range(n):
+        if i < d:
+            t = i - d + n
+        else:
+            t = i - d
+        arr2[t] = arr[i]
+    return arr2
     
 
 if __name__ == '__main__':
