@@ -1,4 +1,4 @@
-# HackerRank challenge: Tree: Preorder Traversal:
+# HackerRank challenge: Tree: Preorder Traversal
 # https://www.hackerrank.com/challenges/tree-preorder-traversal/problem?isFullScreen=true
 
 class Node:
