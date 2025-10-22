@@ -1,25 +1,33 @@
-# HackerRank challenge: Tree: Preorder Traversal: https://www.hackerrank.com/challenges/tree-preorder-traversal/problem?isFullScreen=true
+# HackerRank challenge: Tree: Preorder Traversal:
+# https://www.hackerrank.com/challenges/tree-preorder-traversal/problem?isFullScreen=true
 
 class Node:
-    def __init__(self, info): 
-        self.info = info  
-        self.left = None  
-        self.right = None 
-        self.level = None 
+    """
+    Node is defined as
+    self.left (the left child of the node)
+    self.right (the right child of the node)
+    self.info (the value of the node)
+    """
+    def __init__(self, info):
+        self.info = info
+        self.left = None
+        self.right = None
+        self.level = None
 
     def __str__(self):
-        return str(self.info) 
+        return str(self.info)
+
 
 class BinarySearchTree:
-    def __init__(self): 
+    def __init__(self):
         self.root = None
 
-    def create(self, val):  
-        if self.root == None:
+    def create(self, val):
+        if self.root is None:
             self.root = Node(val)
         else:
             current = self.root
-         
+
             while True:
                 if val < current.info:
                     if current.left:
@@ -36,14 +44,9 @@ class BinarySearchTree:
                 else:
                     break
 
-"""
-Node is defined as
-self.left (the left child of the node)
-self.right (the right child of the node)
-self.info (the value of the node)
-"""
+
 def preOrder(root):
-    #Write your code here
+    # Write your code here
     if root is not None:
         print(root.info, end=' ')
         preOrder(root.left)
